@@ -1,4 +1,4 @@
-from main import add_time
+from time_calculator import add_time
 from unittest import main
 
 
